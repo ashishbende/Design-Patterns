@@ -13,5 +13,5 @@ public enum EnumPresident {
     }
     public String getCountry(){
         return country;
-    }g
+    }
 }
