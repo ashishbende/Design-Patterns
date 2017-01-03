@@ -10,7 +10,7 @@ public class ShapeFactory {
             return new Circle();
         }
 
-        if (shapeType.equalsIgnoreCase("Square")) {
+        if (shapeType.equalsIgnoreCase("Triangle")) {
             return new Square();
         }
 

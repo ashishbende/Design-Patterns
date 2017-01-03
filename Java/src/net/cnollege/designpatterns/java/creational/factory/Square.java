@@ -6,6 +6,6 @@ package net.cnollege.designpatterns.java.creational.factory;
 public class Square implements Shape {
     @Override
     public void draw() {
-        System.out.println("Drawing Square! ");
+        System.out.println("Drawing Triangle! ");
     }
 }
