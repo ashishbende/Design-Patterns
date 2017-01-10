@@ -9,8 +9,11 @@ public class LazySingleton {
     // make constructor private
     private LazySingleton(){}
 
-    // method to get singleton
-    public static LazySingleton getSingleton(){
+    /*  method to get singleton & make it thread safe
+        note synchronization is an expensive operation
+        Remove synchronization if threading is not required
+    */
+    public static synchronized LazySingleton getSingleton() {
         if(singleton==null){
             // instantiate singleton
             singleton = new LazySingleton();
