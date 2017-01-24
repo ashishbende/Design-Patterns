@@ -1,3 +1,6 @@
+package net.cnollege.designpatterns.java.behavioral.chainofresponsibility;
+
+
 public class ConcreteHandler2 implements Handler{
     private Handler successor = null;
 
