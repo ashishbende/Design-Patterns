@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ashish/Lab/design-patterns/SOLID/0_Single_Responsibility_Principle/main.cpp
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+

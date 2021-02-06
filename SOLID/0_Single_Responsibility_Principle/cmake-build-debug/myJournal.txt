@@ -1,0 +1,2 @@
+1:Today is Wednesday.
+2:It is good day to implement SOLID principle.

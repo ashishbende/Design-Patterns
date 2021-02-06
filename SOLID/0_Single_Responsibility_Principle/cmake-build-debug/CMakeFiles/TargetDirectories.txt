@@ -1,0 +1,3 @@
+/Users/ashish/Lab/design-patterns/SOLID/0_Single_Responsibility_Principle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ashish/Lab/design-patterns/SOLID/0_Single_Responsibility_Principle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ashish/Lab/design-patterns/SOLID/0_Single_Responsibility_Principle/cmake-build-debug/CMakeFiles/0_Single_Responsibility_Principle.dir
